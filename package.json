@@ -23,9 +23,12 @@
     "eject": "react-scripts eject"
   },
   "dependencies": {
+    "enzyme": "^3.9.0",
+    "jest": "^24.8.0",
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
-    "react-scripts": "2.1.8"
+    "react-scripts": "2.1.8",
+    "react-testing-library": "^7.0.0"
   },
   "devDependencies": {},
   "eslintConfig": {
